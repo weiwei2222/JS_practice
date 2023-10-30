@@ -1,0 +1,28 @@
+Ashley Brown	Weather Love Station	
+https://github.com/AshleyBrown11/weather-app-react	
+https://github.com/AshleyBrown11/weather-app-react
+
+Saleh Eissa	Riddle API	
+https://github.com/SalehEissa/main2-riddle	
+https://github.com/SalehEissa/main2-riddle
+
+Stephanees Lopez 	Pokemon Blog	
+https://github.com/stephanees020719/project-mod-2.git	https://github.com/stephanees020719/project-mod-2.git
+Tyasia Holman	Movie availabilitydatabase	https://github.com/tyholman1/Movie-API-Project.git	https://github.com/tyholman1/Movie-API-Project.git
+Katherine(Yanan)Saung	Natural Event Tracker - NASA Data	https://github.com/KatySaung/Natural-Event-Tracker-ReactApp.git	https://github.com/KatySaung/Natural-Event-Tracker-ReactApp.git
+Robert Michaud	Weather Tracker	https://github.com/RobertLeeMich/Md2WeatherInfo	https://github.com/RobertLeeMich/Md2WeatherInfo
+Jay Fortier	 random quotes and names	https://github.com/jayfortier79/music-info                      https://extraordinary-arithmetic-189a8e.netlify.app	https://github.com/jayfortier79/music-info                      https://extraordinary-arithmetic-189a8e.netlify.app
+Taher Moosa	Motivational Quotes and Image API	https://github.com/tmoosa/motivation-quotes	https://github.com/tmoosa/motivation-quotes
+Toyoki Tanaka	Pokemon Data	https://github.com/Toyoki-Tanaka/Perscholas-Module-2-Project-Pokemon	https://github.com/Toyoki-Tanaka/Perscholas-Module-2-Project-Pokemon
+Fatimah Honore		https://github.com/techaq/music-app.git	https://github.com/techaq/music-app.git
+Lauren Gradford	Pokemon Personality Quiz	https://github.com/Gradfordl/gradfordl.github.io.git	https://github.com/Gradfordl/gradfordl.github.io.git
+Anthony Hudson	MarketHub - E-Commerce App	https://github.com/ahudsonics/markethub	https://github.com/ahudsonics/markethub
+Andrew Doak	Art Institue API	https://github.com/andrewdoak/aic-api-react	https://github.com/andrewdoak/aic-api-react
+Alejandro Manotas	Replica Pokedex api 	https://github.com/alexxmanos/finalpokedexapi	https://github.com/alexxmanos/finalpokedexapi
+Mohammed Ahmed	joke of the day	https://github.com/MohammedAhmed2122/project2-joke/tree/main/public	https://github.com/MohammedAhmed2122/project2-joke/tree/main/public
+Bryan Santos	Recipe Radar	https://github.com/bryandevelops/RecipeRadar	https://github.com/bryandevelops/RecipeRadar
+Gulbaniz Ahmadova	Pokemon Evolution	https://github.com/Gahmadova/react-Pokemon-API	https://github.com/Gahmadova/react-Pokemon-API
+Abenezer Asseged	Soccer Match Score and Highlight Video 	https://github.com/AbeAsseged/Mod-2-First-React-Application---Project---2	https://github.com/AbeAsseged/Mod-2-First-React-Application---Project---2
+Stefhon Roach	Rick and Morty api character lookup	https://github.com/StefhonR/Main-Project-2	https://github.com/StefhonR/Main-Project-2
+Hiurimi MIranda	The News API 	https://github.com/Mirandhy/TheNewsAPI	https://github.com/Mirandhy/TheNewsAPI
+Robert Davis	Joke Fantasy	https://github.com/RDCoder8/joke-fantasy	https://github.com/RDCoder8/joke-fantasy
