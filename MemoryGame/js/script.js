@@ -1,19 +1,27 @@
 'use strict';
 
 const cards = document.querySelectorAll('.memory-card');
+const movesEl = document.getElementById('moves');
+console.log(movesEl)
 
 let checkFlip = false;
 let firstCard, secondCard;
+let moves = 0;
 
 function flipCard() {
   this.classList.add('flip');
   if (!checkFlip){
     checkFlip = true;
     firstCard = this;
+    console.log(firstCard);
     return
   }
   secondCard = this;
   checkFlip = false;
+  console.log(secondCard);
+  moves ++;
+  movesEl.textContent = moves;
+  console.log(movesEl);
   checkMatch()
 }
 
@@ -37,7 +45,7 @@ function unflipCards() {
    setTimeout(() => {
      firstCard.classList.remove('flip');
      secondCard.classList.remove('flip');
-   }, 100);
+   }, 1500);
 }
 
 cards.forEach(card => card.addEventListener('click', flipCard));
