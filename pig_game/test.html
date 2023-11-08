@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Memory Game</title>
+    <style>
+      * {
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+      }
+      body {
+        height: 100vh;
+        background: #ddd;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+      .flex-box {
+        background-color: rgba(72, 43, 43, 0.35);
+        overflow: hidden;
+        display: flex;
+        height: 80%;
+        width: 70%;
+      }
+      .item1 {
+        background: #4f4f4f;
+        align-self: stretch;
+        width: 20%;
+        height: 100%;
+      }
+      .rightSide {
+        width: 80%;
+        height: 100%;
+      }
+      .rightTop {
+        display: flex;
+        width: 100%;
+        height: 50%;
+        justify-content: space-between;
+      }
+      .rightBottom {
+        display: flex;
+        background: #76168b;
+        width: 100%;
+        height: 50%;
+      }
+      .item2 {
+        background: #8b1616;
+        width: 25%;
+      }
+      .item3 {
+        background: #168b60;
+        width: 25%;
+      }
+      .item4 {
+        background: #8b1616;
+        width: 25%;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="flex-box">
+      <div class="item1">1111</div>
+      <div class="rightSide">
+        <div class="rightTop">
+          <div class="item2">22222</div>
+          <div class="item3">33333</div>
+          <div class="item4">4444</div>
+        </div>
+        <div class="rightBottom">5555</div>
+      </div>
+    </div>
+  </body>
+</html>
